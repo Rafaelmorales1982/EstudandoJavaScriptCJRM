@@ -1,2 +1,2 @@
-# EstudandoJavaScriptCJRM
+# EstudandoJavaScript
 Estudando Javascript
